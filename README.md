@@ -1,4 +1,4 @@
-:collision: This repo was abrted because we decide to move all "the program" on the repo from Paolo"
+:collision: This repo was aborted because we decide to move all "the program" on the repo from Paolo"
 
 #Calculette
 
