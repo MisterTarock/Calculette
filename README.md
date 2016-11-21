@@ -1,3 +1,5 @@
+:collicion: This repo was abrted because we decide to move all "the program" on the repo from Paolo"
+
 #Calculette
 
 This is our project in **C#** to understand the concept of **object programming**.
