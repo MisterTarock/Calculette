@@ -1,0 +1,5 @@
+D:\Documents & Co\Documents\Visual Studio 2015\Projects\Labo4\Calculette\Calcu_lib\Calcu_lib\bin\Debug\Calcu_lib.dll
+D:\Documents & Co\Documents\Visual Studio 2015\Projects\Labo4\Calculette\Calcu_lib\Calcu_lib\bin\Debug\Calcu_lib.pdb
+D:\Documents & Co\Documents\Visual Studio 2015\Projects\Labo4\Calculette\Calcu_lib\Calcu_lib\obj\Debug\Calcu_lib.csprojResolveAssemblyReference.cache
+D:\Documents & Co\Documents\Visual Studio 2015\Projects\Labo4\Calculette\Calcu_lib\Calcu_lib\obj\Debug\Calcu_lib.dll
+D:\Documents & Co\Documents\Visual Studio 2015\Projects\Labo4\Calculette\Calcu_lib\Calcu_lib\obj\Debug\Calcu_lib.pdb

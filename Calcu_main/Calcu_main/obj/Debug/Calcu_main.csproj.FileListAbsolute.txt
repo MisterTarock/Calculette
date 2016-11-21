@@ -1,0 +1,2 @@
+D:\Documents & Co\Documents\Visual Studio 2015\Projects\Labo4\Calculette\Main\Calcu_main\Calcu_main\bin\Debug\Calcu_main.exe.config
+D:\Documents & Co\Documents\Visual Studio 2015\Projects\Labo4\Calculette\Calcu_main\Calcu_main\bin\Debug\Calcu_main.exe.config

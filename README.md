@@ -8,6 +8,10 @@ The purpose of this program is to be with a main project with .exe output and a 
 
 :collision:The rest are old project....
 
+#Instru .gitignore
+
+\*/* suffit pour indiquer tout les directory ahead et permet de gerer tout les bin de tout les projet d'un coup.
+
 ##First Choice
 :collision: Attention please! If you write anything other than the expected numbers it will show an exception and reload the propositions.
 
